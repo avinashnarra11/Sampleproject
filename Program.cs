@@ -8,8 +8,6 @@ namespace Sampleproject
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
-
-
         }
     }
 }
